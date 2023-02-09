@@ -1,0 +1,6 @@
+- id: cargo
+  name: cargo
+  entry: cargo
+  language: system
+  types: [rust]
+  pass_filenames: false
